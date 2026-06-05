@@ -79,4 +79,4 @@ python knn.py
 
 
 
-MS in Computer Science, University of North Carolina at Charlotte
+
