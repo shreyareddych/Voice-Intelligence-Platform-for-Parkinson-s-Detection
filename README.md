@@ -15,7 +15,7 @@ This project presents a comparative analysis of machine learning models for Park
 ## Project Structure
 
 ```plaintext
-Voice-Intelligence-Platform-for-Parkinson-s-Detection/
+Voice-Intelligence-Platform-for-Parkinsons-Detection/
 │
 ├── gradient_boosting.py
 ├── lr.py
